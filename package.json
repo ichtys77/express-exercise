@@ -1,0 +1,11 @@
+{
+  "name": "express-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ichtys77/express-exercise.git",
+  "author": "Łukasz Mazurkiewicz <mazurkiewicz_l@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
